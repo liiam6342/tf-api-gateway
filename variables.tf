@@ -45,3 +45,4 @@ variable "bool" {
     type        = bool
     default     = true
 }
+
