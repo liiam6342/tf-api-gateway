@@ -7,12 +7,12 @@ variable "aws_region" {
 variable "rest_api_domain_name" {
     description = "Domain name for API Gateway cert"
     type        = string
-    default     = "example-test.and.digital"
+    default     = "example-test.tech"
 }
 variable "rest_api_name" {
     description = "Name of API Gateway Rest API"
     type        = string
-    default     = "liam-test-api"
+    default     = "test-api"
   
 }
 
