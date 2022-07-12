@@ -1,0 +1,7 @@
+{
+  "name": "tf-api-gateway",
+  "release": {
+    "branches": ["master"]
+  },
+  "private": true
+}
